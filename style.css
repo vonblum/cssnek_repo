@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+.tidbit {
+   width: 300px;
+   font-family: Montserrat, sans-serif;
+   font-size: 16px;
+   padding: 10px;
+   background: #4caf50;
+   margin-bottom: 20px;
+}
+
+.nature {
+   background: #64d8cb;
+}
+
+.title {
+   font-weight: bold;
+   font-size: 24px;
+   background: #f44336;
+}
+
+.lead {
+   font-size: 18px;
+   font-style: italic;
+   background: #e91e63;
+}
+
+.link {
+   background: #ffc107;
+}
+
+.more {
+   background: #03a9f4;
+}
+
+.lead-alt,
+.short p {
+   font-size: 24px;
+   background: #ffeb3b;
+}
