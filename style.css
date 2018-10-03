@@ -1,40 +1,52 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=RobotoSlab');
 
 .tidbit {
    width: 300px;
-   font-family: Montserrat, sans-serif;
+   font-family: RobotoSlab, sans-serif;
    font-size: 16px;
    padding: 10px;
-   background: #4caf50;
    margin-bottom: 20px;
 }
 
 .nature {
-   background: #64d8cb;
+
 }
 
 .title {
    font-weight: bold;
-   font-size: 24px;
-   background: #f44336;
+   font-size: 64px;
+   color: #4a4a4a;
+   text-align: right;
+}
+
+.title2 {
+   font-weight: bold;
+   font-size: 36px;
+   line-height: 0.83;
+   color: #4a4a4a;
+   text-align: center;
 }
 
 .lead {
-   font-size: 18px;
-   font-style: italic;
-   background: #e91e63;
+  font-size: 20px;
+  color: #4a4a4a;
+  background: #ffb6c1;
 }
 
 .link {
-   background: #ffc107;
+   color: #4a4a4a;
 }
 
 .more {
-   background: #03a9f4;
+   font-size: 14px
+   color: #4a90e2;
+   text-decoration: none;
 }
 
 .lead-alt,
 .short p {
-   font-size: 24px;
+   font-size: 36px;
+   font-weight: bold;
+   color: #4a4a4a;
    background: #ffeb3b;
 }
